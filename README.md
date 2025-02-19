@@ -1,50 +1,69 @@
 # Hi there, I'm Amer Andersson 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for coding and continuous learning. Here's a bit about me:
+Welcome to my GitHub profile! I’m a dedicated software developer passionate about building innovative solutions and continuously expanding my skills.  
+
+---
 
 ## 💻 Languages and Frameworks
 
-- Swift/SwiftUI
-- C/C++
-- Python
-- Flask
-- Django
-- FastAPI
-- SQLAlchemy
+- **Programming Languages:** Swift/SwiftUI, C/C++, Python  
+- **Web Development:** Flask, Django, FastAPI, Node.js, Express  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **ORM:** SQLAlchemy  
 
-## 🔭 What I'm Currently Working On
+---
 
-- Open-source projects that make a difference
-- Enhancing my skills in full-stack development
-- Collaborating with the developer community on exciting projects
+## 📱 Mobile Development
 
-## 🌱 What I'm Learning
+- **iOS Development:** Swift, SwiftUI, SwiftData  
 
-- Advanced JavaScript frameworks like React 
-- Backend development with Node.js and Express
-- Cloud computing with AWS and Azure
+---
 
-## 👯 What I'm Looking to Collaborate On
+## 🚀 Current Projects
 
-- Open-source projects that solve real-world problems
-- Innovative web and mobile applications
-- Projects that involve machine learning and data science
+- Building open-source tools that make a difference  
+- Developing full-stack applications with modern frameworks  
+- Engaging with the developer community on collaborative projects  
+
+---
+
+## 🌱 Learning & Growth
+
+- Advanced JavaScript frameworks like **React**  
+- Backend development with **Node.js** and **Express**  
+- Cloud platforms such as **AWS** and **Azure**  
+
+---
+
+## 🤝 Collaboration Interests
+
+- Open-source projects with real-world impact  
+- Web and mobile app development  
+- Machine learning and data-driven applications  
+
+---
 
 ## 💬 Ask Me About
 
-- Web development (HTML, CSS, JavaScript)
-- Backend development (Node.js, Express, MongoDB)
-- Best practices in software development
+- **Web Development:** HTML, CSS, JavaScript, Python  
+- **Backend Development:** Node.js, Express, Flask, Django, FastAPI, SQLAlchemy  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **iOS Development:** Swift, SwiftUI, SwiftData  
+- **Software Development:** Best practices and architecture  
 
-## 📫 How to Reach Me
+---
 
-- LinkedIn: [Amer Andersson](https://www.linkedin.com/in/amerandersson)
-- Twitter: [@AmerAndersson](https://twitter.com/AmerAndersson)
+## 📫 Let's Connect
+
+- **LinkedIn:** [Amer Andersson](https://www.linkedin.com/in/amerandersson)  
+- **Twitter:** [@AmerAndersson](https://twitter.com/AmerAndersson)  
+
+---
 
 ## ⚡ Fun Fact
 
-- I love hiking and exploring the great outdoors when I'm not coding!
+- When I’m not coding, I enjoy hiking and exploring the outdoors!  
 
-Thanks for stopping by, and feel free to reach out if you want to connect or collaborate on a project!
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmerAndersson&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmerAndersson&show_icons=true&theme=radical)  
