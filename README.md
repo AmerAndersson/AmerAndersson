@@ -1,6 +1,6 @@
-# Hi there, I'm Amer Andersson 👋
+# *`Hi there, I'm Amer Andersson👋`*
 
-Welcome to my GitHub profile! I’m a dedicated software developer passionate about building innovative solutions and continuously expanding my skills. My version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+Welcome to my GitHub profile! I’m a dedicated software developer passionate about building innovative solutions and continuously expanding my skills.
 
 ---
 
