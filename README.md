@@ -1,4 +1,4 @@
-# # *`Hi there, I'm Amer Andersson👋`*
+# Hi there, I'm Amer Andersson 👋
 
 Welcome to my GitHub profile! I’m a driven **AI Software Engineer** passionate about building intelligent systems, full-stack applications, and scalable software solutions.
 
@@ -12,8 +12,7 @@ Welcome to my GitHub profile! I’m a driven **AI Software Engineer** passionate
 ## 💻 Languages & Frameworks
 
 ### Core Languages
-![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![Python](https://shields.io) ![Java](https://shields.io) ![Swift](https://shields.io) ![C++](https://shields.io)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Web & Backend Development
 ![Node.js](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -57,10 +56,7 @@ Welcome to my GitHub profile! I’m a driven **AI Software Engineer** passionate
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Langs" height="150" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmerAndersson&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmerAndersson&layout=compact&theme=radical" alt="Top Langs" height="180" />
 </p>
-
