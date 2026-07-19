@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I’m a driven **AI Software Engineer** passionate
 ---
 
 ## ⚡ Fun Fact
-- When I’m not writing code, I enjoy hiking and exploring the outdoors!
+- When I’m not writing code, I enjoy reading and exploring the outdoors!
 
 ---
 
