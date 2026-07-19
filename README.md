@@ -57,6 +57,7 @@ Welcome to my GitHub profile! I’m a driven **AI Software Engineer** passionate
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmerAndersson&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmerAndersson&layout=compact&theme=radical" alt="Top Langs" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmerAndersson&theme=radical" alt="GitHub Streak Stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmerAndersson&theme=radical" alt="Top Langs" height="180" />
 </p>
+
